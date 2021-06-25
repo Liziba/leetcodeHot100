@@ -1,7 +1,3 @@
 ### IDEA ###
 .idea/*
-*.iml
-*/target/*
-*/*.iml
-/.gradle/
-*/rebel.xml
+target/*
